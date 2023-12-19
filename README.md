@@ -31,8 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![WhatsApp Image 2023-12-19 at 16 14 30_046a927b](https://github.com/Monishofficial/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149455421/676152e8-cb4f-48c7-b3f5-3753557ab6e8)
+
 
 ### Output:
+![WhatsApp Image 2023-12-19 at 16 13 48_bcd21e2f](https://github.com/Monishofficial/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149455421/dbc3c7f4-daae-418b-9ffd-cdb51d06464c)
+
 
 
 ### Name:
